@@ -1,0 +1,7 @@
+﻿  passport_test.cpp
+  passport.cpp
+c:\users\hardy\documents\github\oop-ki15\lab2\b01_passport\passport.cpp(165): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\hardy\documents\github\oop-ki15\lab2\b01_passport\passport.cpp(179): warning C4018: <: несоответствие типов со знаком и без знака
+  date.cpp
+  Создание кода...
+  01_passport.vcxproj -> C:\Users\HARDy\Documents\GitHub\oop-ki15\lab2\b01_passport\Debug\01_passport.exe

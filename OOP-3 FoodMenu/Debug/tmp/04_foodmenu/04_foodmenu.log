@@ -1,0 +1,8 @@
+﻿  test.cpp
+  menu.cpp
+  foodproduct.cpp
+  foodcomponents.cpp
+  controller.cpp
+c:\users\hardy\documents\github\oop-ki15\lab3\04_foodmenu\controller.cpp(135): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  04_foodmenu.vcxproj -> C:\Users\HARDy\Documents\GitHub\oop-ki15\lab3\04_foodmenu\Debug\bin\04_foodmenu\04_foodmenu.exe
