@@ -1,0 +1,3 @@
+﻿  controller.cpp
+c:\users\easy\documents\github\oop-ki15\lab4\09_trees\controller.cpp(65): warning C4018: >: несоответствие типов со знаком и без знака
+  09_trees.vcxproj -> C:\Users\Easy\Documents\GitHub\oop-ki15\lab4\09_trees\Debug\bin\09_trees\09_trees.exe
